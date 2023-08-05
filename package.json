@@ -1,0 +1,19 @@
+{
+  "name": "buildspace-os",
+  "version": "1.0.0",
+  "description": "A web wrapper for the buildspace home",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [
+    "Buildspace",
+    "Electron",
+    "Alterok"
+  ],
+  "author": "Javier Zaleta Martínez",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^25.4.0"
+  }
+}
